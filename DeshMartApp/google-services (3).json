@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193844867442",
+    "project_id": "deshmart-b4eea",
+    "storage_bucket": "deshmart-b4eea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193844867442:android:c7446e0015ea759f952deb",
+        "android_client_info": {
+          "package_name": "com.example.mydeshmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl6wCYxVS3ErCJA8QMWhZA_9tgd9UJomw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
